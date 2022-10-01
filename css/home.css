@@ -1,0 +1,10 @@
+.fondo{
+    background-image: url(../img/portada2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.conocenos{
+    background-color: aliceblue;
+}
+

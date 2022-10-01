@@ -1,0 +1,34 @@
+
+.fondo{
+    background-image: url(../img/portada2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parrafo{
+    background-color: black;
+    color: antiquewhite;
+}
+
+.pizzas{
+    color: antiquewhite;
+}
+
+
+.h5{
+    background-color: aliceblue;
+}
+
+
+.footer{
+    background-color: rgb(5, 18, 18);
+}
+
+.fondopizzas{
+    background-color: black;
+}
+
+.titulo-reservas{
+    background-color: black;
+    color: aliceblue;
+}
