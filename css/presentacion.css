@@ -4,24 +4,13 @@
     background-size: cover;
 }
 
-
+.parrafo{
+    background-color: black;
+    color: antiquewhite;
+}
 
 #enunciado{
-    background-color: black;
     border: white 3px solid;
     border-radius: 30px;
     margin: 10px;
-    color: aliceblue;
-}
-
-.footer{
-    background-color: rgb(5, 18, 18);
-}
-
-.colorlogo{
-    color: white;
-}
-
-.carousel{
-    border-radius: 20%;
 }

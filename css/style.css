@@ -10,10 +10,11 @@
     color: antiquewhite;
 }
 
-.pizzas{
-    color: antiquewhite;
-}
+ 
+h1{
 
+    color: aliceblue;
+}
 
 .h5{
     background-color: aliceblue;
@@ -24,11 +25,26 @@
     background-color: rgb(5, 18, 18);
 }
 
-.fondopizzas{
-    background-color: black;
-}
 
 .titulo-reservas{
     background-color: black;
     color: aliceblue;
 }
+
+#enunciado{
+    border: white 3px solid;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.colorlogo{
+    color: white;
+}
+
+.horario{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+
